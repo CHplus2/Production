@@ -4,6 +4,22 @@ channels:
   - defaults
 dependencies:
   - python=3.10
+  name: fastai-binder
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - fastai
+  - fastbook
+  - voila
+  - ipywidgets
+  - jupyterlab
+  - notebook
+  - numpy
+  - pandas
+  - pillow
+
   - fastai
   - voila
   - ipywidgets
