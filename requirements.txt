@@ -1,8 +1,0 @@
-fastai
-voila
-ipywidgets
-jupyterlab
-notebook
-numpy
-pandas
-pillow
