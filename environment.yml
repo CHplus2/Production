@@ -5,7 +5,6 @@ channels:
 dependencies:
   - python=3.10
   - fastai
-  - fastbook
   - voila
   - ipywidgets
   - jupyterlab
@@ -13,3 +12,7 @@ dependencies:
   - numpy
   - pandas
   - pillow
+  - pip
+  - pip:
+      - duckduckgo-search
+      - fastbook
